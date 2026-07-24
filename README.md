@@ -25,7 +25,7 @@ I specialise in **event-driven microservices architecture** — Apache Kafka for
 - 🏗️ Built a config-driven API gateway that reduced deployment effort by **90%**
 - 📚 Believer in **LLD-first development**, clean code, and structured root cause analysis
 - 🤝 Passionate about **mentoring engineers** and raising team engineering quality
-- 📫 Reach me at **singhanket5101@gmail.com** or **+91 9161153581**
+- 📫 Reach me at **anket.pratap.singh1@gmail.com** or **+91 9161153581**
 - ⚡ Fun fact: I've delivered **20+ client Change Requests with 100% First-Time-Right** — zero rework
 
 ---
